@@ -1,0 +1,300 @@
+CORENET X Past Events
+Overview
+CORENET X Past Events
+[2026] Past Events
+Collapse all
+
+[20 May 2026] CORENET X IFC+ SG Fundamentals Webinar
+
+Webinar Material:
+CORENET X IFC+SG Webinar Material (20 May 2026)
+
+Webinar Recording:
+
+
+
+Post Webinar Quiz:
+
+
+
+[2025] Past Events
+
+[4 Sep 2025] CORENET X Industry Seminar: Setting up for Success in CORENET X
+
+Seminar Material:
+Latest Developments on CORENET X
+
+Seminar Recording:
+
+Opening Address
+by Er. Clement Tseng, Deputy CEO (Building Control), BCA
+
+Latest Developments on CORENET X
+by Ms. Yin Zili, Senior Engineer, BCA
+
+Checkpoint Sharing on CORENET X - a Developer's Journey
+by Ar. Jois Phoo, Residential Development Director, GuocoLand
+
+Checkpoint Sharing on CORENET X - an Architect's Journey
+by Ar. Kingsley Ng, Group Director, P & T Consultants Pte Ltd
+
+
+
+Checkpoint Sharing on CORENET X - a C&S Engineer's Journey
+by Er. Gwee Siong Mong, Executive Director, Ronnie & Koh Consultants Pte Ltd
+
+Checkpoint Sharing on CORENET X - an M&E Engineer's Journey
+by Er. Gilbert Beh, Technical Director, J.Roger Preston
+
+Checkpoint Sharing on CORENET X - a Builder's Journey
+by Ar. Ang Chow Hwee, Director of Architecture, Woh Hup (Pte) Ltd
+
+
+
+
+
+[07 Aug 2025] CORENET X Connect: Preparing for Mandatory Implementation
+
+Workshop Material:
+CX Connect_Prepare for Mandatory Implementation
+
+
+
+[5 and 12 Aug 2025] CORENET X Connect for C&S Industry
+
+Part 1a_Update on RABW
+Part 1b_Buildability requirements
+Part 1c_TOP-CSC application
+Part 2a_Common mistakes and Good Practices for CX projects
+Part 2b_Project Planning in CORENET X
+Part 3_CORENET X project sharing by KCL
+
+
+
+[30 Jul 2025] CORENET X Connect: Understanding & Navigating the Submission Portal
+
+Workshop Material:
+CX Connect_Understanding & Navigating the Submission Portal
+
+
+
+[26 Jun 2025] Society of Project Managers (SPM) Webinar on CORENET X
+
+Workshop Material:
+CORENET X Webinar with SPM 26 Jun 2025
+
+
+
+[14 Mar 2025] CORENET X Connect for Builders (SCAL Workshop)
+
+Workshop Material:
+CORENET X Connect SCAL Workshop 14 Mar 2025
+
+
+
+[2024] Past Events
+
+[25 - 27 Nov 2024] CX Connect for C&S Industry
+
+1
+
+CORENET X Connect for C&S Industry
+by BCA
+
+1. CORENET X Key Concepts
+2. New Submission Portal
+3. Part 3_Streamlining C&S Format & Workflow
+
+
+
+
+
+[12 Nov 2024] 2nd CORENET X Industry Seminar
+
+1
+
+Key Updates to CORENET X
+by BCA
+
+Key Updates to CORENET X
+
+2	Key Updates to CORENET X Code of Practice
+by BCA
+
+Key Updates to CORENET X Code of Practice
+
+3	Cross-Discipline Coordination for CORENET X (A joint study by SIA & ACES)
+by Er. Choong Chong Guan, ACES Vice President & Council Member
+
+Cross-Discipline Coordination for CORENET X (A joint study by SIA & ACES)
+
+
+
+
+
+[2 May 2024] CORENET X Appreciation Lunch
+
+[2 May 2024] CORENET X Industry Seminar
+
+ 1
+
+Event Highlights
+
+Event Highlights CORENET X Industry Seminar 2024
+
+ 2
+
+Q&A
+
+CX Industry Seminar Pigeonhole Questions v1
+
+3	Getting Ready for CORENET X
+by BCA
+
+BCA Getting Ready for CORENET X - 2 May 2024
+
+4
+
+Learning from CORENET X Pilot Projects From a Developer's Perspective
+By: Ar. Tay Seok Cheng, Deputy Head, Property Development Division, City Developments Limited
+
+CDL CORENET X - 2 May 2024
+
+5
+
+Sharing of ADDP's learning points from pilot projects and benefits of CORENET X
+By: Ar. Tang Kok Thye, Associate Partner, ADDP Architects LLP
+
+ADDP CORENET X - 2 May 2024
+
+6
+
+Learning from CORENET X Pilot Projects From a Developer-Builder's Perspective
+By: Mr Kenneth Loo, Chief Operating Officer and Executive Director, Straits Construction Group
+
+Straits Construction CORENET - 2 May 2024
+
+
+
+
+
+
+
+[2023] Past Events
+
+[27 Nov 2023] 2nd CORENET X Leadership Forum
+
+Opening Address by Minister for National Development, Mr. Desmond Lee
+
+Presentations and Panel Discussion
+
+1	Transforming the Built Environment: Digitalisation and Value Chain Collaboration
+by Mr. Richard Kuppusamy, Chief Product Officer & Head of Lendlease Digital, Lendlease Digital Asia Pte Ltd
+
+Presentation 1 by Mr. Richard Kuppusamy
+
+2	Getting Ready for CORENET X from Architects' Perspective: ADDP's Preparation Journey
+by Ar. Richard Lai, Senior Principal Architect, ADDP Architects LLP & Immediate Past President of Singapore Institute of Architects
+
+Presentation 2 by Ar. Richard Lai
+
+3	Getting Ready for CORENET X from Structural Engineers' Perspective: Arup's Preparation Journey
+by Mr. Sam Kilkenny-Brown, Associate, Arup Singapore Pte Ltd
+
+Presentation 3 by Mr. Sam Kilkenny Brown
+
+4	Getting Ready for CORENET X from M&E Engineers' Perspective: Beca's Preparation Journey
+by Mr. Byron McKay Associate Director, Beca Carter Hollings & Ferner (S.E.Asia) Pte Ltd
+
+
+
+
+
+[22 Nov 2023] Workflows to Prepare Structural IFC+SG Models for CORENET X Submission
+
+CORENET X Structural Submission and IFC+SG Requirements
+
+[14 Nov 2023] ARCHICAD for CORENET X : Fast-Track Your BIM Submission
+
+[3 Nov 2023] How engineers digitalize design data for CORENET X submission by Trimble
+
+[20 Oct 2023] Webinar on CORENET X Implementation Plan and COP
+
+CORENET X What You Need to Know
+
+[21 Sep 2023] Building Engineering Seminar 2023: Safe Design and Construction
+
+Guide for Structural Submissions via CORENET X
+
+[25 Aug 2023] IFC+SG Interoperability Tool for upcoming CORENET-X Submissions by Autodesk + SIA + BuildingSmart Singapore + CORENET X
+
+Toolset for CORENET X submission requirements
+Usage and understanding of IFC+SG requirements
+
+
+
+[21 Aug 2023] ACES CORENET X Lunchtime Talk
+
+Sandbox Project
+Sharing of IFC+SG Experience
+ACES CORENET X Lunchtime Talks - 21 Aug 2023
+CORENET X Sharing - Joseph Koh
+ACES Trendspace CORENET X - 21 Aug 2021 - Khin Maw Maw
+CORENET X - 21 Aug 2023 - Final Slides - William Quah
+
+
+
+[15 Jun 2023] Webinar on CORENET X Draft Code of Practice
+
+CORENET X Draft Code of Practice Presentation Material
+
+
+
+[16 Mar 2023] CORENET X Leadership Forum
+
+Jointly organised with Singapore Polytechnic, CORENET X had our inaugural leadership forum on 16 March 2023. The forum was graced by Senior Minister of State Tan Kiat How, who gave an opening address. He shared about how leaders play a crucial role in driving transformation by setting the direction and culture within the organisations as well as investing in one of the most valuable assets - our people, to equip them with the necessary sklillsets and training, to build a more competitive BE workforce. He encouraged leaders to rally their teams to start preparing, to be ready ahead of the launch. You may view his full speech here.
+
+The forum is supported by SIA, ACES, BOA and PEB, and will complement more detailed existing and future CX industry training. The forum also saw IFC+SG training providers - AcePLP, BIMAGE and Singapore Polytechnic who had set up booths to share their knowledge and expertise.
+
+The forum consisted of 3 presentation topics, including a sharing by an industry leader - Ar. Lin Hongsui from ID Architects Pte Ltd.
+
+1
+
+Preparing for Change: Navigating a New Process
+by Er. Clement Tseng, Group Director, BCA
+
+Understand the impetus for change and how the new regulatory approval processes serve to enhance productivity through better collaboration and coordination.
+
+Download Slides: Presentation 1 by Er. Clement Tseng (BCA)
+
+ 2
+
+ Being Future-Ready: Embracing a New Model
+by Ar. Tan Jwu Yih, Director, BCA
+
+Understand the importance of data standardisation and how firms can benefit and build new capabilities.
+
+Download Slides: Presentation 2 by Ar. Tan Jwu Yih (BCA)
+
+ 3	 Leading the Way: IDA's Insights from their Digital Transformation Journey towards CORENET X
+by Ar. Lin Hongsui, Director, ID Architects Pte Ltd
+
+An industry perspective on the benefits, challenges, and the necessary in-house preparation.
+
+Download Slides: Presentation 3 by Ar. Lin Hongsui (IDA)
+
+
+
+
+
+
+
+[2021 to 2022] Past Events
+
+Good Practices by Industry Firms
+
+2022 CX Webinar IFC+SG - Insights by P&T UPC
+
+[Sep to Nov 2021] CORENET X introductory webinars
+
+CORENET X Introductory Webinars (Sep - Nov 2021)
