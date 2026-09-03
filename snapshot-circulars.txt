@@ -1,0 +1,617 @@
+CORENET X Circulars
+(Top 100 circulars, sorted newest first, as of last check)
+
+[2026-09-01] GUIDELINES FOR THE COMMUNITY/SPORTS FACILITIES SCHEME
+Agencies: URA
+Categories: Requirements
+This circular is an update from the earlier version issued in 2020. The updates are intended to reflect the changes that have already been effected on-ground: (a) new childcare centres are no longer endorsed by ECDA as an allowable use under CSFS, and (b) arts uses endorsed by MCCY/NAC are formalised as an allowable use under CSFS.
+Link: /docs/default-source/ura-circulars/dc26-10.pdf?sfvrsn=f98c1b59_1
+
+[2026-09-01] ENHANCED TECHNICAL REQUIREMENTS IN CODE OF PRACTICE FOR RAILWAY PROTECTIONFOR DEVELOPMENT WORKS AFFECTING BORED TUNNELS IN COMPRESSIBLE SOILS
+Agencies: LTA
+Categories: Requirements
+Proposed works in the vicinity of compressible soils can have significant impact on RTS tunnels as compared to other type of soils. To manage the risks posed by such works, LTA will be revising the relevant technical requirements in Code of Practice for Railway Protection (CPRP).  The enhanced Code requires consolidation analysis to be carried out to assess long-term ground changes and impact to existing RTS tunnels for development and building works near railway tunnels in compressible soils. Qualified Persons (QPs) are also required to minimize additional loading and groundwater drawdown and demonstrate that there is no adverse impact to railway tunnels in compressible soils.
+Link: /docs/default-source/lta-circulars/circular_enhanced_rails_cop.pdf?sfvrsn=4105eeb6_1
+
+[2026-09-01] REVISION J TO STANDARD DETAILS OF ROAD ELEMENTS (SDRE)
+Agencies: LTA
+Categories: Requirements
+Effective: 2027-02-28
+The updated SDRE will be soft launched on 8 September 2026 and will run in parallel with the current version until 28 February 2027. The current version will be removed from the website on 1 March 2027, upon which the new version of the SDRE will take full effect.
+Link: /docs/default-source/lta-circulars/circular_sdre(rev_j)_sep26.pdf?sfvrsn=53e269a1_1
+
+[2026-09-01] LAST-MILE DELIVERY GUIDE FOR DEVELOPMENTS
+Agencies: LTA
+Categories: Technical Guides
+The guide shares design and operational practices that can be implemented within developments to improve delivery experiences for different stakeholders, including delivery personnel, residents, tenants and security officers. 3.
+Link: /docs/default-source/lta-circulars/circular---last-mile-delivery-guide-for-developments.pdf?sfvrsn=628aa9c4_1
+
+[2026-09-01] KEY CONSIDERATIONS FOR POST-INSTALLED ANCHORS
+Agencies: BCA
+Categories: Technical Guides
+This circular outlines the key considerations for the design and construction of post-installed anchors (PIAs) to ensure structural safety. Annex A provides practical guidance covering connection design, material selection, product qualification, installation, and quality assurance.
+Link: /docs/default-source/bca-circulars/appbca-2026-15-key-considerations-fr-pias.pdf?sfvrsn=279121c4_1
+
+[2026-09-01] CIRCULAR ON THE INTER-AGENCY COORDINATING COMMITTEE (IACC)RESOLUTION PLATFORM – LAUNCH OF FORMSG
+Agencies: BCA
+Categories: Advisories
+This circular is to encourage industry to tap on the Inter-Agency Coordinating Committee (IACC) Resolution platform for expedient resolution of issues arising from conflicting regulatory requirements encountered by the project parties in their projects. This circular also updates the industry on the launch of FormSG, which will replace the existing submission process for IACC case lodgements, making it faster, simpler and more efficient for users to lodge cases.
+Link: /docs/default-source/bca-circulars/final-industry-circular.pdf?sfvrsn=31cc28e9_1
+
+[2026-09-01] REVISED REQUIREMENTS FOR NEW BUS STOP POLES
+Agencies: LTA
+Categories: Requirements
+Please be informed that the Land Transport Authority (LTA) has updated the requirements for new Bus Stop Poles, effectively immediately. These revised requirements supersede the previous requirements found in (i) LTA’s Infrastructure Design Criteria (IDC) Vol. C Chapter 1 - Commuter Infrastructure: Revision A1, 2022, and (ii) Standard Details of Road Elements (SDRE) Chapter 11 – Bus Stops: Revision G, 2025.
+Link: /docs/default-source/lta-circulars/circular-on-revised-bus-stop-pole-requirement.pdf?sfvrsn=99f38c1f_1
+
+[2026-09-01] Proactive Facade Maintenance
+Agencies: BCA
+Categories: Maintenance
+This circular provides guidance to support building owners in planning and undertaking of proactive maintenance. It aims to facilitate systematic inspections and timely interventions to enhance façade resilience, improve public safety, and support more cost-effective building life-cycle management.
+Link: /docs/default-source/bca-circulars/circular-on-proactive-façade-maintenancefdba47019f9142ccbccbabaf06869d1b.pdf?sfvrsn=c92b05d6_1
+
+[2026-09-01] PERFORMANCE-BASED FIRE SAFETY PLAN SUBMISSION FOR ADDITION AND ALTERATION (A/A) WORKS
+Agencies: SCDF
+Categories: Administration / Service Improvements
+Effective: 2027-03-01
+SCDF issued a circular (Ref: CD/FSSD/12/02/03/010) on 5 June 2012 to inform the building industry that qualified persons (QPs) who carry out any addition and alteration (A/A) works to an existing performance-based (PB) building are required to obtain a Letter of No Objection (LONO) from a fire safety engineer (FSE) if the A/A works do not affect the PB design. If the works affect the PB design, an FSE has to be engaged for the submission of PB plans to SCDF.
+Link: /docs/default-source/scdf-circulars/circular-performance-based-fire-safety-plan-submission-for-addition-and-alteration-works.pdf?sfvrsn=a792e028_1
+
+[2026-09-01] Advisory on Safe Installation, Inspection and Maintenance of Suspended Ceiling Systems
+Agencies: BCA
+Categories: Advisories
+This advisory sets out good practices for building owners and industry professionals in the selection, installation, testing, inspection, and maintenance of anchorage systems and suspended ceiling systems. Recent incidents involving suspended ceiling collapses have highlighted the critical importance of ensuring that anchorage systems are fit for purpose and capable of safely supporting suspended ceiling loads throughout their service life. Regular inspection and maintenance also play an important role in safeguarding building occupants and the public.
+Link: /docs/default-source/bca-circulars/advisory-on-safe-installation-inspection-and-maintenance-of-suspended-ceiling-systems.pdf?sfvrsn=1157ba58_1
+
+[2026-09-01] AMENDMENTS TO FIRE CODE 2023 – 6th BATCH OF AMENDMENTS
+Agencies: SCDF
+Categories: Requirements
+Effective: 2027-03-01
+SCDF would like to issue the 6th batch of amendments to the Code of Practice for Fire Precautions in Buildings 2023 (Fire Code 2023). The amendments, which were deliberated and accepted by the Fire Code Review Committee, are attached as Annexes A & Annex B of this circular.
+Link: /docs/default-source/scdf-circulars/circular--amendments-to-fire-code-2023--6th-batch-of-amendments.pdf?sfvrsn=d70e6fe8_1
+
+[2026-09-01] STANDARDISED SAMPLING RATE - IDENTITY TESTING FOR COMPRESSIVE STRENGTH OF CONCRETE
+Agencies: BCA
+Categories: Standards
+This circular provides guidance on the standardised sampling rate in relation to identity testing for compressive strength of concrete.
+Link: /docs/default-source/bca-circulars/20260901---standardised-sampling-rate---identity-testing-for-compressive-strength-of-concrete.pdf?sfvrsn=6c5a049d_1
+
+[2026-09-01] LTA’S INFRASTRUCTURE DESIGN CRITERIA (IDC) VOLUME D, PART 1- BUS INTERCHANGE
+Agencies: LTA
+Effective: 2027-03-01
+This circular is to inform the industry of the latest updates to the Infrastructure Design Criteria (IDC) on LTA’s website.  The IDC defines the parameters for design and construction of various land transport facilities and has replaced the existing Architectural Design Criteria (ADC) for LTA facilities. Volume A, B and C were launched in 2022.   Covered under the current launch are the design requirements for bus interchange in the following volume: •	Volume D, Part I  –Bus Interchange (Revision A1, 2026)
+Link: /docs/default-source/broadcast/circular_sep-2026_idc-vol-d_final.pdf?sfvrsn=a0db57a6_1
+
+[2026-08-19] QUICK GUIDE SERIES FOR DEVELOPMENTRELATED PROPOSALS – ‘RELOCATION OF RAPID TRANSIT SYSTEM (RTS)STATION VENTILATION SHAFTS’
+Agencies: LTA
+Categories: Requirements
+LTA has released a new publication under our ‘Quick Guide Series for Development Related Proposals’, titled ‘Relocation of Rapid Transit System (RTS) Station Ventilation Shafts’. This quick guide outlines the technical and submission requirements for relocation of affected RTS station ventilation shafts for developments integrated with RTS stations.
+Link: /docs/default-source/lta-circulars/quick-guide-for-relocation-of-rts-station-ventilation-shafts.pdf?sfvrsn=65706305_1
+
+[2026-08-07] ENTERPRISE SINGAPORE CALLS FOR PUBLIC COMMENTS ON SINGAPORE STANDARDS – 7 AUGUST
+Agencies: Enterprise SG
+Categories: Standards
+Enterprise Singapore invites public comments on standards for – medical devices for human subjects, aluminium alloy windows, fire hydrant, rising mains and hose reel system, renewable energy certificates, cook-chill food, protective helmets for motorcyclists, timber flat pallets, data centre infrastructure, electrical energy storage systems, emissions factor registry, AI solution deployment and life cycle management, fire-resistant cables, environmental management system and Permanent Way.
+Link: /docs/default-source/broadcast/pc-notice---7-aug-2026.pdf?sfvrsn=b68dcb50_1
+
+[2026-07-23] JOINT BCA-URA CIRCULAR ON UPDATES TO CORENET X IMPLEMENTATION PLAN
+Agencies: BCA, URA
+Categories: Requirements
+This circular informs industry of the latest updates to the CORENET X implementation plan, and outlines the available resources to support industry’s transition to CORENET X.
+Link: /docs/default-source/bca-circulars/circular-for-updates-to-corenet-x-implementation-plan.pdf?sfvrsn=d8a19259_1
+
+[2026-07-07] SUBMISSIONS THROUGH CORENET X FROM 13 JULY 2026
+Agencies: IMDA
+Categories: Requirements
+Effective: 2026-07-13
+Dear CORENET X subscribers,  1. From 13 July 2026, for projects where no prior submissions have been made to IMDA, developers/development owners are required to make building development plan submissions to IMDA via CORENET X.  2. For submissions that have been made to CORENET 2, users should continue to use CORENET 2 for submissions to IMDA, subject to Building & Construction Authority’s guidelines.  3. Developers/development owners are reminded to ensure that all project-related details are complete and are submitted in accordance with IMDA’s Code of Practice for Info-communication Facilities in Buildings.  4. For more information, please refer to the circular.  5. Thank you.
+Link: /docs/default-source/broadcast/20260703-circular-to-industry-(corenet-x)_imda.pdf?sfvrsn=dfc817b6_2
+
+[2026-07-03] ENTERPRISE SINGAPORE CALLS FOR PUBLIC COMMENTS ON SINGAPORE STANDARDS – 3 JULY
+Agencies: Enterprise SG
+Enterprise Singapore invites public comments on standards for – structural use of timber, structural use of concrete, concrete structures for retaining aqueous liquids, reinforcement of concrete, bunker sampling and food storage in warehouses.
+Link: /docs/default-source/broadcast/pc-notice---3-july-2026.pdf?sfvrsn=fe8467d5_1
+
+[2026-06-19] UPDATE ON SUBMISSION PROCESS FOR MODIFICATIONS TO PRIVATE PARKING PLACES
+Agencies: LTA
+Categories: Administration / Service Improvements
+LTA has since transitioned to an online submission form to streamline the application process. The PDF Form LTA-DBC-VP and the requirement to email completed forms and supporting documents to DBC Registry have been replaced by an online form, which will automatically processes and routes your submission upon completion.
+Link: /docs/default-source/lta-circulars/circular-update_on_submission_process_for_modifications_to_private_parking_places.pdf?sfvrsn=ca41ba9e_1
+
+[2026-06-05] Revised Approach To New Development Applications For Hotel, Backpackers' Hostel And Serviced Apartment Uses In Upper Circular Road And Beach Road Street Blocks [Singapore River And Downtown Core Planning Areas]
+Agencies: URA
+Categories: Technical Guides
+This relaxation of Hotel, Backpackers' Hostel and Serviced Apartment uses will apply to all new development applications received on or after the effective date, in the UCR and Beach Road street blocks.
+Link: /docs/default-source/corenet-x-event/dc26-07.pdf?sfvrsn=4f72ce3a_1
+
+[2026-06-02] Updated and New Do-It-Right Guides for Conserved Buildings
+Agencies: URA
+Categories: Publication
+This circular introduces an updated Do-It-Right Guide for conserved shophouses and terraces and a new Do-It-Right Guide for providing installation services under the EASE (Private) programme in a conserved building. It also outlines the responsibilities of all stakeholders in protecting Singapore’s built heritage.
+Link: /docs/default-source/corenet-x-event/updated-and-new-do-it-right-guides-for-conserved-buildings-circular185afb21c380453eb61d23913e992d4c.pdf?sfvrsn=f8dabe53_1
+
+[2026-06-02] ADOPTION OF REVISED SINGAPORE STANDARD SS 557:2026 – CODE OF PRACTICE FOR DEMOLITION
+Agencies: BCA
+Categories: Requirements
+This circular informs the industry of the publication and adoption of the revised Singapore Standard SS 557:2026 (Code of Practice for Demolition). This version supersedes the previous SS 557:2010 to reflect current demolition technologies and enhanced structural safety protocols.
+Link: /docs/default-source/bca-circulars/appbca-2026-09-ss557-signed.pdf?sfvrsn=551cbcf0_1
+
+[2026-06-02] PUBLICATION OF REVISED DESIGN GUIDES –(I) DESIGN GUIDE FOR STEEL-CONCRETE COMPOSITE COLUMNS WITH HIGH STRENGTH MATERIALS (BC4: 2025)(II) DESIGN GUIDE FOR SEMI-RIGID COMPOSITE JOINTS AND BEAMS (3RD EDITION)
+Agencies: BCA
+Categories: Technical Guides
+This circular informs the industry of the publication of the revised Design Guide for Steel-Concrete Composite Columns with High Strength Materials (BC4: 2025) and the Design Guide for Semi-Rigid Composite Joints and Beams (3rd Edition).
+Link: /docs/default-source/bca-circulars/appbca-2026-10-bc4_2025-and-semi-rigid-composite-joint-and-beam_final.pdf?sfvrsn=40f10e30_1
+
+[2026-06-02] CONSOLIDATED QUESTIONS & ANSWERS FROM THE BCA ANNUAL SHARING ON BP/TOP REGULATORY UPDATES 2026
+Agencies: BCA
+Categories: Administration / Service Improvements
+This circular consolidates the questions and answers from the BCA Annual Sharing Session on BP/TOP Regulatory Updates held on 30 April 2026. It covers clarifications across several key areas including accessibility and universal design requirements under COA 2025, BP/TOP/CSC application procedures, Lightning Protection System (LPS) submissions under CORENET X, fixed installations such as sheltered passageways to lift motor rooms, environmental sustainability requirements for solar PV and AHUs, and inter-agency coordination matters. The document serves as a reference for Qualified Persons, Builders, and Developers on current regulatory requirements and BCA's positions on common industry queries.
+Link: /docs/default-source/bca-circulars/consolidated-questions-answers-from-the-bca-annual-sharing-on-bptop-regulatory-updates-2026.pdf?sfvrsn=4ecae74e_1
+
+[2026-05-12] New Requirements Under The Building Control (Outdoor Advertising) (Amendment) Regulations 2026 And Their Commencement Dates
+Agencies: BCA
+Categories: Requirements
+This circular notifies the industry of the changes to the Building Control (Outdoor Advertising) Regulations. These changes, as set out in the Building Control (Outdoor Advertising) (Amendment) Regulations 2026, will be gazetted on 1 October 2026 and will come into effect on 2 November 2026.
+Link: /docs/default-source/bca-circulars/new-requirements-under-the-building-control.pdf?sfvrsn=ec67dbb9_1
+
+[2026-05-08] Joint BCA-URA 12 Month pilot project for usage declaration in shophouses during the Periodic Structural Inspection
+Agencies: BCA
+Categories: Announcements
+The Building and Construction Authority (“BCA”) and Urban Redevelopment Authority (“URA”) will collaborate on a 12-month pilot project requiring Structural Engineers ("SEs") to declare usage for shophouse buildings during Periodic Structural Inspections ("PSI").
+Link: /docs/default-source/bca-circulars/joint-bca-ura-circular-on-pilot-project-for-usage-declaration-in-shophouses-during-the-psi.pdf?sfvrsn=1dc02980_1
+
+[2026-04-30] Buildability Type Approval for Programme-Level Design Standardisation through Kit-of-Parts Approach
+Agencies: BCA
+Categories: Requirements
+This circular informs the industry of a new, optional regulatory compliance pathway – Buildability Type Approval for projects adopting Kit-of-Parts (KoP) approach.
+Link: /docs/default-source/bca-circulars/circular-on-buildability-type-approval.pdf?sfvrsn=41dceac9_3
+
+[2026-04-30] LAUNCH OF ASKDBC – LTA'S AI-POWERED CHATBOT FOR DEVELOPMENT & BUILDING CONTROL QUERIES
+Agencies: LTA
+Categories: Announcements
+In our continued effort to enhance industry support, LTA launches AskDBC, an AI-powered chatbot designed to streamline how industry professionals access LTA's regulatory information. The tool enables quicker information retrieval and reduces reliance on email enquiries for general submission queries.
+Link: /docs/default-source/lta-circulars/askdbc_launch.pdf?sfvrsn=e29d9a19_1
+
+[2026-04-17] STREAMLINED PLAN FEES FOR (1) ALTERATIONS, ADDITIONS OR REPAIRS AND (2) DEPARTURES AND DEVIATIONS FROM APPROVED PLANS OF DEVELOPMENTS INVOLVING BOTH GENERAL BUILDINGS AND SPECIFIED BUILDINGS
+Agencies: BCA
+Categories: Requirements
+This circular informs the industry on the streamlined fees for (1) alterations, additions or repairs and (2) departures and deviations from approved plans of developments involving general buildings and specified buildings1, prescribed in the Second Schedule to the Building* Control Regulations 2003 (“BC Regs”).
+Link: /docs/default-source/bca-circulars/20260417_circular-on-streamlined-plan-fees-for-ana-and-amendment.pdf?sfvrsn=380fb95_1
+
+[2026-04-02] Recognising Class 4 Licence in lieu of the SEC(K) requirement for Construction Work Permit Holders performing Full-time Heavy Vehicle Driver Occupations
+Agencies: BCA
+Link: /docs/default-source/bca-circulars/final_industry-circular_recognising-class-4-for-wph-in-full-time-driver-occupations.pdf?sfvrsn=9c1e451a_1
+
+[2026-03-02] ENHANCED FRAMEWORK FOR REUSED STEEL IN BC1: 2023 DESIGN GUIDE FOR THE USE OF ALTERNATIVE STRUCTURAL STEEL TO EUROCODE 3 (2ND ED)
+Agencies: BCA
+Categories: Requirements
+Effective: 2026-09-01
+Enhanced Framework for Reused Steel in BC1: 2023
+Link: /docs/default-source/bca-circulars/appbca-2026-01-reused_steel_framework_enhancements.pdf?sfvrsn=c7855256_1
+
+[2026-03-02] Design Templates for DG and CG Stage Submissions
+Agencies: LTA
+Categories: Technical Guides
+This circular aims to guide industry with Design Template references for Development Gateway and Construction Gateway stage. Through these LTA ongoing efforts to enhance and uplift the submission process/quality for Street Works Proposal relating to Development Works, these design templates are intended to:  (a) Ensure consistency and clarity through a standardised format, (b) Reduce resubmissions due to missing or incomplete details, and (c) Enhance review efficiency through clear and complete submissions.
+Link: /docs/default-source/corenet-x-event/design_templates_for_dg_and_cg_stage_submissions.pdf?sfvrsn=114165cb_2
+
+[2026-03-02] COMPANION GUIDE TO CODE ON ACCESSIBILITY IN THE BUILT ENVIRONMENT 2025
+Agencies: BCA
+Categories: Publication
+To support Qualified Persons in exceeding baseline standards in the Code on Accessibility, this Companion Guide provides non-mandatory design recommendations that promote user-centric accessibility. It consolidates insights from the Code Review Committee, industry and public feedback, research findings and current design trends.
+Link: /docs/default-source/bca-circulars/circular-appbca-2026-04-companion-guide-for-coa2025.pdf?sfvrsn=4a33fcbc_1
+
+[2026-03-02] AMENDMENTS TO FIRE CODE 2023 – 5th BATCH OF AMENDMENTS
+Agencies: SCDF
+Categories: Requirements
+This Circular aims to inform the industry of the release of the 5th batch of amendments to the Code of Practice for Fire Precautions in Buildings 2023 (Fire Code 2023).
+Link: /docs/default-source/scdf-circulars/circular-amendments-to-fire-code-2023---5th-batch-of-amendments.pdf?sfvrsn=8d510320_1
+
+[2026-03-02] Updates to CORENET X Payment Methods
+Agencies: BCA, URA
+Categories: Administration / Service Improvements
+This circular informs the industry of the updates to payment options available on the CORENET X Submission Portal, including the introduction of PayNow and revised requirements for bank transfer payments, available since 13 February 2026.
+Link: /docs/default-source/corenet-x-circulars-and-announcements/circular---updates-to-corenet-x-payment-methods.pdf?sfvrsn=51029b8_1
+
+[2026-03-02] Reminder on proper conduct of periodic structural inspections (PSI) and professional standards expected of structural engineers
+Agencies: BCA
+Categories: Requirements
+This circular from BCA reminds Structural Engineers (SEs) of expected professional standards for conducting Periodic Structural Inspections (PSI), addresses observed shortcomings and reinforces requirements for proper conduct of PSI to maintain building safety in Singapore.
+Link: /docs/default-source/bca-circulars/circular-on-reminder-on-proper-conduct-of-psi-and-expectations-of-structural-engineers_2march2026.pdf?sfvrsn=ad4bdb5e_1
+
+[2026-03-02] REVISION TO STANDARD DETAILS OF ROAD ELEMENTS (SDRE)
+Agencies: LTA
+Categories: Requirements
+Effective: 2026-06-01
+This circular is to inform the industry of the latest updates to the Standard Details of Road Elements (SDRE).  The revised SDRE (Revision I) is issued based on the list of amendments outlined in Annex A in the circular.
+Link: /docs/default-source/corenet-x-event/circular_sdre(rev-i)_2mar26_final.pdf?sfvrsn=2ec48f6c_1
+
+[2026-02-02] Planning Authorisation for Change of Use of Commercial Premises in Business Park Developments on JTC’s Land and PA’s Community Centres & Clubs
+Agencies: URA
+Categories: Requirements
+This circular sets out the new change of use authorisation scheme for commercial premises in Business Park (BP) developments on land owned or leased by JTC and in Community Centres/Clubs (CCs) managed by People’s Association (PA)
+Link: /docs/default-source/corenet-x-event/dc26-01.pdf?sfvrsn=4ae54f1e_1
+
+[2026-01-20] CONSULTATION SERVICES TO FACILITATE FIRE SAFETY UPGRADES IN EXISTING BUILDINGS WITH A&A WORKS
+Agencies: SCDF
+Categories: Administration / Service Improvements
+This Circular aims to inform the industry that SCDF is offering consultation services to facilitate major fire safety upgrades in existing buildings with A&A works.
+Link: /docs/default-source/scdf-circulars/circular-consultation-services-to-facilitate-fire-safety-upgrades-in-existing-buildings-with-a-a-works.pdf?sfvrsn=16a2b6eb_1
+
+[2026-01-15] RELAXATION TO BUILDING PLAN SUBMISSION REQUIREMENTS FOR ADDITION AND ALTERATION WORKS ON HDB PROPERTIES
+Agencies: HDB
+Categories: Announcements
+Effective: 2025-11-28
+Following the stakeholders’ engagement session with the Pro-Enterprise Office in May 2025, we are pleased to inform you that HDB has reviewed and further relaxed the requirements for building plan submissions for Addition and Alteration (A&A) works on HDB properties.
+Link: /docs/default-source/hdb-circulars/circular_hdb_big_20260115.pdf?sfvrsn=82c1350_1
+
+[2026-01-05] ENTERPRISE SINGAPORE CALLS FOR PUBLIC COMMENTS ON SINGAPORE STANDARDS – 2 JANUARY 2026
+Agencies: Enterprise SG
+Categories: Standards
+Enterprise Singapore invites public comments on standards for water services, enterprise business function interfaces, application integration at electric utilities, electrical energy storage, privacy information management system, plastic waste management and lifting gear.
+Link: /docs/default-source/corenet-x-event/pc-notice---2-jan-2026.pdf?sfvrsn=f79780bb_1
+
+[2025-12-18] LAUNCH OF SINGAPORE FIRE SAFETY ENGINEERING GUIDELINES (2ND EDITION)
+Agencies: SCDF
+Categories: Technical Guides
+Effective: 2025-12-15
+SCDF developed the first edition of the Singapore Fire Safety Engineering Guidelines (SFEG) as a reference for Fire Safety Engineers (FSEs) to facilitate their work in Performance-Based (PB) fire safety engineering design. The SFEG documents the basic design fundamentals and design input and output parameters when embarking on a fire safety engineering design approach. This Circular is to inform the industry of the launch of SFEG 2nd edition.
+Link: /docs/default-source/scdf-circulars/circular--launch-of-singapore-fire-engineering-guidelines-(2nd-edition)5845868bf7fb4db9b6fe585e3d0ed54c.pdf?sfvrsn=f7becb7e_1
+
+[2025-12-05] ENTERPRISE SINGAPORE CALLS FOR PUBLIC COMMENTS ON SINGAPORE STANDARDS – 5 DECEMBER 2025
+Agencies: Enterprise SG
+Categories: Standards
+Enterprise Singapore invites public comments on standards for air-conditioning and mechanical ventilation, construction computer-aided design, bunkering, system interfaces for distribution management,  assurance of environmental reports, performance-based climate resilience grants, energy audits, measuring energy balance and calculating efficiency, measurement of energy savings of projects, plant-based foods and food ingredients, artificial intelligence.
+Link: /docs/default-source/corenet-x-event/pc-notice---5-dec-2025-v2.pdf?sfvrsn=6b9b2823_1
+
+[2025-12-01] ADOPTION OF SS 626:2024 (CODE OF PRACTICE FOR DESIGN, INSTALLATION ANDMAINTENANCE OF ESCALATORS AND MOVING WALKS) AS ACCEPTABLE SOLUTIONFOR COMPLIANCE WITH PERFORMANCE REQUIREMENTS UNDER BUILDINGCONTROL (FIXED INSTALLATIONS) REGULATIONS 2025
+Agencies: BCA
+Categories: Requirements
+ADOPTION OF SS 626:2024 (CODE OF PRACTICE FOR DESIGN, INSTALLATION AND MAINTENANCE OF ESCALATORS AND MOVING WALKS) AS ACCEPTABLE SOLUTION FOR COMPLIANCE WITH PERFORMANCE REQUIREMENTS UNDER BUILDING CONTROL (FIXED INSTALLATIONS) REGULATIONS 2025
+Link: /docs/default-source/bca-circulars/adoption-of-ss626_2024.pdf?sfvrsn=b05904c5_1
+
+[2025-12-01] Gazette of Master Plan 2025
+Agencies: URA
+Categories: Announcements
+Notifies professional institutes and industry that latest Master Plan is gazetted and can be accessed in hard copy and online
+Link: /docs/default-source/corenet-x-event/gazette-of-master-plan-2025_ppg_2025-12.pdf?sfvrsn=44da6ef9_1
+
+[2025-12-01] Updated Urban Design Guidelines and Plans for Urban Design Areas
+Agencies: URA
+Categories: Requirements
+This circular aims to inform on the updates to the urban design guidelines and plans for selected Urban Design Areas as part of the Master Plan 2025 gazette.
+Link: /docs/default-source/corenet-x-event/dc25-11_cover_letter.pdf?sfvrsn=d3cbbcee_1
+
+[2025-12-01] Revised Street Block Plans for Beach Road, Tan Quee Lan Street, North Bridge Road, Seah Street (Downtown Core Planning Area) and Upper Circular Road Conservation Area (Singapore River Planning Area)
+Agencies: URA
+Categories: Requirements
+This circular will supersede the respective Street Block Plans released in the following circulars: URA/PB/2019/19-CUDG and URA/PB/2008/26-CUDD
+Link: /docs/default-source/corenet-x-event/dc25-10_cover_letter9b1af8782e864357a631d59ff8e201ba.pdf?sfvrsn=609cbb95_1
+
+[2025-12-01] FORMALISATION AND PUBLICATION OF TECHNICAL AGENCIES’ SERVICE STANDARDS FOR TOP/CSC INSPECTION ARRANGEMENTS AND POST INSPECTION RESPONSE TIME
+Agencies: BCA
+Categories: Administration / Service Improvements
+This circular is to inform and provide clarity to the industry on the service standards by technical agencies for arrangements of TOP/CSC inspections and their post inspection response time.
+Link: /docs/default-source/bca-circulars/circular-on-agencies-service-standards-for-topcsc-inspection-arrangements-and-post-inspection-response-time_1-dec-2025.pdf?sfvrsn=f95bac4e_2
+
+[2025-12-01] Implementation of Automated Construction Productivity Data (CPD) Submission
+Agencies: BCA
+Categories: Administration / Service Improvements
+This circular informs the industry of the implementation of automated Construction Productivity Data (CPD) submission to BCA through a new data exchange platform.  Starting from 1 May 2026, builders will be required to submit monthly CPD automatically and directly to BCA through integrated Biometric Authentication Systems (BAS). This initiative streamlines data submission workflows and enhances operational efficiency for builders.
+Link: /docs/default-source/bca-circulars/circular_automated-cpd-submission_final_1.pdf?sfvrsn=15a769f3_2
+
+[2025-12-01] Guidance on naming of communal facilities and features in residential units in approved plans and marketing materials for greater clarity and transparency
+Agencies: BCA, URA
+Categories: Requirements
+Guidance on naming of communal facilities and features in residential units in approved plans and marketing materials for greater clarity and transparency
+Link: /docs/default-source/bca-circulars/circular-guidance-on-naming-of-communal-facilities-and-features-in-residential-units-in-approved-plans-and-marketing-materials-for-greater-clarity-and-transparency.pdf?sfvrsn=b334b371_1
+
+[2025-12-01] PUB CIRCULAR – PROHIBITION AGAINST THE USE OF ALUMINIUM ANODES IN STORAGE WATER HEATERS
+Agencies: PUB
+Categories: Requirements
+Effective: 2026-06-01
+This circular is to inform the industry of the prohibition against the use of Aluminium anodes in storage water heaters.
+Link: /docs/default-source/corenet-x-event/wsn-92413_90_202503_alum-anode22e4b0f0a1ef4d5cafa3d56126853a05.pdf?sfvrsn=560bfda9_1
+
+[2025-12-01] Revision To Early Pre-Consultation Of Structural Concept For Complex Buildings And Introduction Of Fast-Tracking And Facilitating Scheme For Adoption Of Good Design Practices
+Agencies: BCA
+Categories: Requirements
+This circular informs the industry of the improvements to the early pre-consultation comprising the refinement to complex building types and the introduction of fast-tracking and facilitating scheme.
+Link: /docs/default-source/bca-circulars/appbca-2025-2726ec6f1c60e44ad189791e794cc92159.pdf?sfvrsn=58082594_1
+
+[2025-12-01] Guideline on Ensuring Integrity of Sheet Pile Wall to Prevent Ground Loss
+Agencies: BCA
+Categories: Requirements
+Effective: 2026-06-01
+This circular informs the industry of the guidelines and risk-based measures to  ensure the integrity of interlocked sheet pile walls for Earth Retaining or Stabilising  Structures (ERSS). These measures aim to prevent ground loss incidents associated  with  gap  in  sheet  piles,  particularly  in  reclaimed  or  highly  permeable  soils.  This  guideline  serves  as  good  practices,  except  for  Section  4  which  serves  as  requirements for geotechnical building works (GBW) with excavation depth greater  than 6m.
+Link: /docs/default-source/bca-circulars/guideline-on-ensuring-integrity-of-sheet-pile-wall-to-prevent-ground-loss-20251127.pdf?sfvrsn=cc019de_1
+
+[2025-12-01] CIRCULAR ON THE PUBLICATION OF “DESIGN GUIDE FOR FIBRE‐REINFORCED CONCRETE STRUCTURES TO SINGAPORE STANDARD SS 674:2021- PRACTICAL EXAMPLES AND DESIGN AIDS”
+Agencies: BCA
+Categories: Technical Guides
+This new circular on the publication of “DESIGN GUIDE FOR FIBRE‐REINFORCED CONCRETE STRUCTURES TO SINGAPORE STANDARD SS 674:2021- PRACTICAL EXAMPLES AND DESIGN AIDS” is the follow-up guide that ACES and BCA developed to provide practical examples and design aids for various applications that the industry can adopt fibre concrete in their projects.
+Link: /docs/default-source/bca-circulars/circular-appbca-2025-28-sfrc.pdf?sfvrsn=a1d30a97_1
+
+[2025-12-01] NOTIFICATION OF NEW EDITION OF CODE OF PRACTICE ON ENVIRONMENTAL HEALTH (2025 EDITION)
+Agencies: NEA
+Categories: Technical Guides
+Effective: 2026-06-01
+This circular notifies all Qualified Persons (QPs) of the publication of the 2025 Edition of the Code of Practice on Environmental Health (COPEH) with frequently asked questions (FAQs) to provide clarity.
+Link: /docs/default-source/nea-circulars/circular-and-faq-for-copeh-2025779112d8a4484121810081c4f12d6eb8.pdf?sfvrsn=52d95341_2
+
+[2025-11-21] Advisory to Town Councils on Regular Maintenance of Buildings and Responsibilities under the Building Control Act 1989 ("BC Act") w.e.f. 1 October 2025 (Previously under Building Maintenance and Strata Management Act ("BMSMA"))
+Agencies: BCA
+Categories: Requirements
+This advisory reminds all Town Councils of your statutory responsibilities to maintain buildings in a safe condition, particularly as they age. Town Councils are reminded of the importance of regular self-inspections beyond the statutory inspection regimes, i.e. Periodic Structural Inspection (“PSI”) and Periodic Façade Inspection (“PFI”) under Part 5 of the BC Act.
+Link: /docs/default-source/bca-circulars/20251121_advisory-to-tc-on-regular-maintenance-of-buildings.pdf?sfvrsn=f19d75ba_1
+
+[2025-11-13] Enhancements to Showflat Temporary Occupation Licence (TOL) Process
+Agencies: URA
+Categories: Announcements
+This circular informs the industry on two initiatives that 1) aim to improve the search for showflat sites across Singapore, and 2) extend the duration of showflat TOL periods in the Central Area.
+Link: /docs/default-source/corenet-x-event/enhancements-to-the-showflat-temporary-occupation-licence-(tol)-process.pdf?sfvrsn=5205ff7f_1
+
+[2025-11-12] STREAMLINED PLAN FEES FOR NEW ERECTION OR EXTENSION OF DEVELOPMENTS INVOLVING BOTH GENERAL BUILDINGS AND SPECIFIED BUILDINGS
+Agencies: BCA
+Categories: Requirements
+Link: /docs/default-source/bca-circulars/circular-on-streamlined-plan-fees.pdf?sfvrsn=fff10077_2
+
+[2025-11-07] ENTERPRISE SINGAPORE CALLS FOR PUBLIC COMMENTS ON SINGAPORE STANDARDS – 7NOVEMBER 2025
+Agencies: Enterprise SG
+Categories: Standards
+Enterprise Singapore invites public comments on standards for medical devices, pruning of trees in tropical urban landscape, demolition, bi-directional load test,  batteries, transportation and storage of secondary cells and batteries, electrical installations, HACCP system for food industry, ready-to-eat raw fish, lifting gear and personal fall arrest-systems.
+Link: /docs/default-source/corenet-x-event/pc-notice---7-nov-2025.pdf?sfvrsn=e5b45f8_1
+
+[2025-10-31] Planning Authorisation for Deployment of Solar Farms on Land Owned by the State and Statutory Boards
+Agencies: URA
+Categories: Requirements
+Link: /docs/default-source/ura-circulars/planning-authorisation-for-deployment-of-solar-farms-on-land-owned-by-the-state-and-statutory-boards.pdf?sfvrsn=ad252958_1
+
+[2025-10-28] SEEKING PUBLIC CONSULTATION ON CHANGES TO SINGAPORE FIRE ENGINEERING GUIDELINES (2ND EDITION)
+Agencies: SCDF
+Categories: Pre-Consultation / Call for Comments
+In 2015, SCDF developed the first version of the Singapore Fire Safety Engineering Guidelines (SFEG) as a reference for Fire Safety Engineers (FSEs) to facilitate their work in Performance-Based (PB) fire safety engineering design. The SFEG documents the basic design fundamentals and design input and output parameters when embarking on a fire safety engineering design approach. In developing the SFEG 2015, SCDF had convened the SFEG Committee which has been reviewing it continuously since. The SFEG Committee targets to publish the revised SFEG in 2025 and seek public comments from 28 October 2025 to 22 November 2025
+Link: /docs/default-source/corenet-x-event/circular--seeking-public-consultation-on-changes-to-singapore-fire-engineering-guidelines-(2nd-edition).pdf?sfvrsn=3d62968e_1
+
+[2025-10-14] INVITATION FOR REGISTRATION AS FIRE SAFETY ENGINEER (FSE)
+Agencies: SCDF
+Categories: Announcements
+SCDF has commenced its 22nd FSE registration exercise and is inviting applications for registration as an FSE. The closing date for this application is 31 Jan 2026.
+Link: /docs/default-source/scdf-circulars/circular-invitation-for-registration-as-fire-safety-engineer-2026.pdf?sfvrsn=a5bf2025_1
+
+[2025-10-06] Revision to Arterial Traffic Management System and Traffic Monitoring Camera System Provision for Arterial Road
+Agencies: LTA
+Categories: Requirements
+New framework for carrying out Arterial Traffic Management System (ATMS) and Traffic Monitoring Camera System (TMCS) field equipment works affected by development/projects
+Link: /docs/default-source/corenet-x-event/lac_for_tlms.pdf?sfvrsn=dc331e24_1
+
+[2025-10-03] ENTERPRISE SINGAPORE CALLS FOR PUBLIC COMMENTS ON SINGAPORE STANDARDS – 3 OCTOBER 2025
+Agencies: Enterprise SG
+Categories: Standards
+Enterprise Singapore invites public comments on standards for noise control, artificial intelligence, competence of testing and calibration laboratories, conformity assessment,  autonomous vehicles and powered counterbalanced forklifts
+Link: /docs/default-source/corenet-x-event/pc-notice---3-oct.pdf?sfvrsn=a4c907dd_1
+
+[2025-10-01] UPDATES TO THE APPROVED DOCUMENT (1 OCTOBER 2025)
+Agencies: BCA
+Categories: Requirements
+This circular is to inform the industry of the updates to the “Approved Document” which comprise changes to Sections B, L, and K. Section B contains mainly editorial changes to provide clarity. Sections L (Lightning Protection) and K (Lifts and Escalators) have been updated to align with the latest amendments to the Building Control Regulations.
+Link: /docs/default-source/bca-circulars/bca-circular-on-updates-to-the-approved-document-v7-08.pdf?sfvrsn=7422c3dd_1
+
+[2025-09-26] IMPLEMENTATION OF BUILDING CONTROL REGULATIONS FOR FIXED INSTALLATIONS AND EXTERIOR FEATURES
+Agencies: BCA
+Categories: Requirements
+This circular is to inform the industry about the implementation for regulations for fixed   installations (i.e. lifts, escalators and mechanised car parking systems) and exterior features.
+Link: /docs/default-source/bca-circulars/circular---implementation-of-regulations-for-fixed-installations-and-exterior-features.pdf?sfvrsn=fe8fc775_1
+
+[2025-09-15] Enhancing The Submission Process for Street Works Proposals Relating to Development Works
+Agencies: LTA
+Categories: Requirements
+This circular aims to inform the industry of enhancements to the submission process for Street Works Proposals relating to Development Works at the Layout Plan (DC/ DG) and Street Plan (BP/ CG) stage. The initiatives are as follows: a) Submission Requirements for Street Works Proposals relating to Development Works b) List of M&E Approved Products c) Standardisation of Bus Stops
+Link: /docs/default-source/corenet-x-event/circular_sep25_enhancing_submission_process_withannexes.pdf?sfvrsn=a3f0d715_2
+
+[2025-09-10] CORENET X : MANDATORY SUBMISSIONS STARTING FROM 1 OCTOBER 2025 (FOR NEW PROJECTS ≥ 30,000 SQM GROSS FLOOR AREA)
+Agencies: BCA, URA
+Categories: Announcements
+This circular is a reminder that mandatory submission for new projects of 30,000 sqm (GFA) or more through CORENET X will commence on 1 October 2025. This circular consolidates key information from earlier circulars and highlights essential points that industry professionals should know, as well as resources available to assist the industry for the transition.
+Link: /docs/default-source/bca-circulars/circular-for-corenet-x-implementation-2025464fd83c-24ac-473b-bd7d-83c4048f8d36.pdf?sfvrsn=43dad967_1
+
+[2025-09-05] ENTERPRISE SINGAPORE CALLS FOR PUBLIC COMMENTS ON SINGAPORE STANDARDS – 5 SEPTEMBER 2025
+Agencies: Enterprise SG
+Categories: Standards
+Enterprise Singapore invites public comments on standards for geotechnical investigation, fire doors, fire hydrant, accelerated ageing, healthcare products, terminally sterilized medical devices, medical devices, LNG bunkering, pesticides, polymers, batteries, agriculture practice, food storage in warehouses, robotics, service robots, intangible assets and intellectual property, outdoor fitness equipment and electric vehicles charging system.
+Link: /docs/default-source/corenet-x-event/pc---5-sep-2025.pdf?sfvrsn=5c76789_1
+
+[2025-09-01] Guideline On Requirements For Site Investigation Reports
+Agencies: BCA
+Categories: Requirements
+This guideline aims to inform the industry on the requirements for the preparation of Site Investigation (SI) reports that are submitted to BCA for building works.
+Link: /docs/default-source/bca-circulars/20250901_guidelines-on-requirements-for-site-investigation-reports.pdf?sfvrsn=53ff6f3e_2
+
+[2025-09-01] GUIDELINES FOR USE OF DRAINAGE BLANKET BENEATH BASE SLAB
+Agencies: BCA
+Categories: Technical Guides
+This circular aim to provide guidelines for the use of drainage blanket beneath base slab as part of foundation and/ or base slab  design against uplift forces. The guidelines also provide some of the possible measures to mitigate the risks associated with the usage of drainage blanket for building works.
+Link: /docs/default-source/bca-circulars/20250901_guidelines-for-use-of-drainage-blanket-beneath-base-slab.pdf?sfvrsn=88f0f4a0_2
+
+[2025-09-01] REVISED STANDARD - SS EN 13791:2024 ASSESSMENT OF IN-SITU COMPRESSIVE STRENGTH IN STRUCTURES AND PRECAST CONCRETE COMPONENTS
+Agencies: BCA
+Categories: Advisories
+This circular is to inform the industry on the publication of the revised Singapore standard SS EN 13791:2024 Assessment of In-situ Compressive Strength in Structures and Precast Concrete Components.
+Link: /docs/default-source/bca-circulars/20250901_circular-on-ss-en-13791-2024-(1sep2025).pdf?sfvrsn=dc5b2482_2
+
+[2025-09-01] Guidelines For The Design And Construction Of Bored Piles In Limestone Areas
+Agencies: BCA
+Categories: Technical Guides
+This circular establishes a risk-based framework that standardises and consolidates existing good practices in the design and construction for bored piles in limestone areas characterised by cavities or slump zones. Drawing upon collective industry expertise, it harmonises existing practices to ensure project stakeholders can deliver safe and reliable foundation systems, and reduce unforeseen delays while ensuring consistency across projects.
+Link: /docs/default-source/bca-circulars/20250901_guidelines-for-the-design-and-construction-of-bored-piling-in-limestone-areas.pdf?sfvrsn=433a6bf2_2
+
+[2025-09-01] Revised SS EN 206:2014(2024) + A1:2024 and SS EN 544:2024 Parts 1 & 2
+Agencies: BCA
+Categories: Advisories
+This circular is to inform the industry of the publication of the revised Singapore Standards – SS EN 206:2014(2024)+A1:2024, SS 544-1:2024, SS 544-2:2024 and the key provisions to note.
+Link: /docs/default-source/bca-circulars/20250901_appbca-2025-19-ss-en-206-ss-544.pdf?sfvrsn=c7b66369_2
+
+[2025-09-01] REVISED REQUIREMENTS FOR AQUATIC FACILITY MAINTENANCE BUFFER TO THE CODE OF PRACTICE ON ENVIRONMENTAL HEALTH (2024 EDITION)
+Agencies: NEA
+Categories: Requirements
+Revised requirements for aquatic facility maintenance buffer to Code of Practice on Environmental Health (COPEH).
+Link: /docs/default-source/nea-circulars/20250901_revised-requirements-for-aquatic-facility-maintenance-buffer-to-the-code-of-practice-on-environmental-health-(2024-edition).pdf?sfvrsn=50612cfe_1
+
+[2025-09-01] UPDATES TO REQUIREMENTS FOR THE REGISTERED NOISE CONSULTANTS SCHEME_ACMV
+Agencies: NEA
+Categories: Announcements
+Effective: 2026-03-01
+The Registered Noise Consultants Scheme (RNCS) was introduced in April 2019 to expedite the processing time for Air-conditioning and Mechanical Ventilation (ACMV) noise assessment applications submitted by registered noise consultants.  The scheme's success relies on engaging qualified and competent industry practitioners who possess technical proficiency in acoustics, thorough knowledge of technical guidelines, and expertise in the appropriate use of sound level measuring equipment. These consultants are capable of recommending suitable mitigation measures to ensure noise emissions from developments comply with technical guidelines.  Since its implementation, more than 800 noise assessment reports had been submitted by registered noise consultants.  To ensure that the scheme remains relevant to the industry, NEA conducted consultations with registered noise consultants and the industry over the past six months. This review seeks to enhance the scheme's competitiveness and accessibility for acoustic professionals whilst ensuring Qualified Persons (QPs) and developers have access to an active pool of registered consultants.  The review concentrated on two key aspects: (i) establishing requirements for existing registered noise consultants to maintain an active RNC listing and (ii) modifying entry requirements for new applicants to create a more effective and inclusive scheme.
+Link: /docs/default-source/nea-circulars/20250901_circular-on-updates-to-requirements-for-the-registered-noise-consultants-scheme_acmv.pdf?sfvrsn=730341d8_1
+
+[2025-09-01] CIRCULAR ON MEASURES TO PREVENT MATERIALS SPILLAGE FROM TIPPER/ CEMENT TRUCKS
+Agencies: NEA
+Categories: Reminder
+This joint circular from BCA, LTA, and NEA addresses the prevention of materials spillage from tipper and cement trucks on public roads. It outlines safety measures including proper installation of flap covers and containment systems, compliance with maximum laden weight limits, and secure load covering. The circular details specific legal penalties under the respective legislations, with liable parties potentially facing additional cleanup and road repair costs from spillage incidents.
+Link: /docs/default-source/nea-circulars/20250901_joint-circular-on-measures-to-prevent-material-spillage70cef0e7-4f01-475f-8ee4-1b5e8608ff26.pdf?sfvrsn=9b474653_1
+
+[2025-09-01] REMINDER ON PROHIBITION OF CONSTRUCTION WORK ON SUNDAYS AND PUBLIC HOLIDAYS
+Agencies: NEA
+Categories: Requirements
+This circular is a reminder to all contractors of the prohibition of construction work on Sundays and public holidays.   This prohibition applies to all construction activities, including renovation work carried out by contractors and sub-contractors and projects managed by the building management.
+Link: /docs/default-source/nea-circulars/20250901_circular-to-remind-industry-of-the-no-work-rule-on-sundays-and-public-holidays.pdf?sfvrsn=532996da_1
+
+[2025-09-01] SUBMISSION OF LIGHTNING PROTECTION SYSTEM PLANS
+Agencies: BCA
+Categories: Requirements
+Effective: 2026-04-01
+This circular is to inform the industry about the upcoming implementation of the following: a) Lightning Protection System (LPS) plan submission in accordance with the amended Building Control (BC) Regulations; and b) Submission of the Certificate of Supervision of Lightning Protection System (CSC03).
+Link: /docs/default-source/bca-circulars/lps-circular_finalr1_29082025.pdf?sfvrsn=8c296b50_1
+
+[2025-09-01] AMENDMENTS TO FIRE CODE 2023 – 4th BATCH OF AMENDMENTS
+Agencies: SCDF
+Categories: Requirements
+Effective: 2026-03-01
+SCDF would like to issue the 4th batch of amendments to the Code of Practice for Fire Precautions in Buildings 2023 (Fire Code 2023). The amendments, which were deliberated and accepted by the Fire Code Review Committee, are attached as Annexes A, B & C of this circular.
+Link: /docs/default-source/scdf-circulars/20250901_circular-amendments-to-fire-code-2023---4th-batch-of-amendments.pdf?sfvrsn=ffc2b8db_1
+
+[2025-09-01] AMENDMENTS TO CODE OF PRACTICE FOR FIRE PRECAUTIONS IN RAPID TRANSIT SYSTEMS (CPFPRTS) 2022 - 2nd BATCH OF AMENDMENTS
+Agencies: SCDF
+Categories: Requirements
+Effective: 2026-03-01
+SCDF would like to issue the 2nd batch of amendments to the Code of Practice for Fire Precautions in Rapid Transit Systems (CPFPRTS) 2022. The amendments, which were deliberated and accepted by the CPFPRTS Review Committee are attached as Annex A of this circular.
+Link: /docs/default-source/scdf-circulars/20250901_circular-amendments-to-code-of-practice-for-fire-precautions-in-rapid-transit-systems-(cpfprts)-2022---2nd-batch-of-amendments.pdf?sfvrsn=774009e9_1
+
+[2025-09-01] PUBLICATION OF THE CODE OF PRACTICE FOR FIRE PRECAUTIONS IN ROAD TUNNELS (CPFPRT) 2025 EDITION
+Agencies: SCDF
+Categories: Requirements
+Effective: 2026-03-01
+SCDF is pleased to announce the publication of the Code of Practice for Fire Precautions in Road Tunnels (CPFPRT) 2025 edition. The review of this Code was conducted by the Code of Practice for Fire Precautions in Road Tunnels Committee, led by SCDF and comprising representatives from the building industry and government agencies. This Code serves as an authoritative source on fire safety standards for local road tunnels and shall be adopted by the industry when designing fire safety works in road tunnels.
+Link: /docs/default-source/corenet-x-event/20250901_publication-of-the-code-of-practice-for-fire-precautions-in-road-tunnels-(cpfprt)-2025-edition.pdf?sfvrsn=872054e2_1
+
+[2025-09-01] Revision to Standard Details of Road Elements (SDRE)
+Agencies: LTA
+Categories: Requirements
+Effective: 2026-03-01
+This circular is to inform the industry on the latest update to the Standard Details of Road Elements (SDRE). This set of SDRE Revision H is issued based on the list of changes listed in Annex A. Please download the updated SDRE (Revision H) from LTA website via the following link: https://www.lta.gov.sg/content/ltagov/en/industry_innovations/industry_matters/development_construction_resources/Transport_Infrastructure_Design_Criteria_and_Specifications.html
+Link: /docs/default-source/corenet-x-event/revision_to_standard_details_of_road_elements_sdre_revh1dc7fdcb-b712-4ad0-9f07-2ec659fc9e2e.pdf?sfvrsn=1fb5fa2e_1
+
+[2025-08-13] LAUNCH OF CITIES OF TOMORROW RIE2025 GRANT CALL 10
+Agencies: BCA
+Categories: Grant Calls / Call for Submissions
+Building and Construction Authority (BCA) and Housing & Development Board (HDB) have jointly launched the ninth series of grant calls under the Cities of Tomorrow (CoT) R&D Programme on 13 August 2025.
+Link: /docs/default-source/bca-circulars/launch-of-cities-of-tomorrow-rie2025-grant-call-10.pdf?sfvrsn=f92b22ad_1
+
+[2025-08-12] Cities of Tomorrow RIE2025 Grant Call 9 (Extension of Deadline)
+Agencies: BCA
+Categories: Grant Calls / Call for Submissions
+Extension of Grant Call 9
+Link: /docs/default-source/bca-circulars/cities-of-tomorrow-rie2025-grant-call-9-(extension-of-deadline).pdf?sfvrsn=55f7e176_1
+
+[2025-08-05] REVISION OF OBSTACLE LIMITATION SURFACES STANDARDS AND RECOMMENDED PRACTICES BY INTERNATIONAL CIVIL AVIATION ORGANIZATION (ICAO) AND RELATED REVIEWS
+Agencies: URA
+Categories: Requirements
+This circular informs the industry on the ongoing review of the allowable building heights in various parts of Singapore.
+Link: /docs/default-source/ura-circulars/20250805_joint-caas-rsaf-ura-circular-on-revision-of-ols-sarps-by-icao-and-related-reviews.pdf?sfvrsn=64b99151_1
+
+[2025-08-05] ENTERPRISE SINGAPORE CALLS FOR PUBLIC COMMENTS ON SINGAPORE STANDARDS – 1 AUGUST 2025
+Agencies: Enterprise SG
+Categories: Standards
+Enterprise Singapore invites public comments on standards for halon 1301 fire protection systems, medical devices and equipment, elastomeric seals, smart grids, secondary cells, energy efficiency and renewable energy sources, waste management, nutrition and food service, smart manufacturing, information security, cybersecurity and privacy protection, gas cylinders, risk management, bunker sampling, fire safety, industrial recycled water, and conformity assessment.
+Link: /docs/default-source/corenet-x-event/pc-notice-1-aug-2025.pdf?sfvrsn=c53e6d4a_1
+
+[2025-07-31] Third Extension of Deadline for Cities of Tomorrow R&D Programme Grant Call 8 under RIE2025
+Agencies: BCA
+Categories: Grant Calls / Call for Submissions
+Third Extension of Deadline for Cities of Tomorrow R&D Programme Grant Call 8 under RIE2025
+Link: /docs/default-source/bca-circulars/cities-of-tomorrow-rie2025-grant-call-8-(3rd-extension-of-deadline).pdf?sfvrsn=4fa14bc3_1
+
+[2025-07-29] Revision to Street Lighting Provisions for Public Streets
+Agencies: LTA
+Categories: Requirements
+Effective: 2025-08-01
+New framework for carrying out street lighting works affected by development/projects
+Link: /docs/default-source/lta-circulars/20250729_revision_to_street_lighting_provisions_for_public_streets.pdf?sfvrsn=27cac306_1
+
+[2025-07-22] Second Extension of Deadline for Cities of Tomorrow R&D Programme Grant Call 8 under RIE2025
+Agencies: BCA
+Categories: Grant Calls / Call for Submissions
+Second Extension of Deadline for Cities of Tomorrow R&D Programme Grant Call 8 under RIE2025
+Link: /docs/default-source/bca-circulars/cities-of-tomorrow-rie2025-grant-call-8-(2nd-extension-of-deadline).pdf?sfvrsn=4894bdfc_1
+
+[2025-07-15] UPDATE TO GUIDELINES ON GREENERY PROVISION AND TREE CONSERVATION FOR DEVELOPMENTS
+Agencies: NParks
+Categories: Technical Guides
+UPDATE TO GUIDELINES ON GREENERY PROVISION AND TREE CONSERVATION FOR DEVELOPMENTS
+Link: /docs/default-source/events/update-to-nparks-guidelines_handbook-version-5_july-2025.pdf?sfvrsn=79aaedb2_2
+
+[2025-07-14] LAUNCH OF CITIES OF TOMORROW RIE2025 GRANT CALL 9
+Agencies: BCA
+Categories: Grant Calls / Call for Submissions
+Building and Construction Authority (BCA) and Housing & Development Board (HDB) have jointly launched the ninth series of grant calls under the Cities of Tomorrow (CoT) R&D Programme on 14 July 2025.
+Link: /docs/default-source/bca-circulars/launch-of-cities-of-tomorrow-rie2025-grant-call-9f31fa082-1f61-4604-a119-5b4f8eb192de.pdf?sfvrsn=d4091acc_1
+
+[2025-07-10] Cities of Tomorrow RIE2025 Grant Call 8 (Extension of Deadline)
+Agencies: BCA
+Categories: Grant Calls / Call for Submissions
+Extension of Grant Call 8
+Link: /docs/default-source/bca-circulars/cities-of-tomorrow-rie2025-grant-call-8-(extension-of-deadline)336d9bfa-4892-48e3-9ffe-c1f595758a4a.pdf?sfvrsn=71dc2050_1
+
+[2025-07-10] Expansion of Lodgement Scheme for Vehicle Parking Proposals
+Agencies: LTA
+Categories: Requirements
+Effective: 2025-08-11
+The Vehicle Parking Proposal and Plans Lodgement Scheme has been expanded to include Additions & Alterations (A&A) works in existing residential, commercial, and mixed developments.
+Link: /docs/default-source/events/qg17_vp_lodgement_expansion.pdf?sfvrsn=613de87a_1
+
+[2025-07-04] ENTERPRISE SINGAPORE CALLS FOR PUBLIC COMMENTS ON SINGAPORE STANDARDS – 4 JULY 2025
+Agencies: Enterprise SG
+Categories: Standards
+Enterprise Singapore invites public comments on standards for remote clinical monitoring, medical devices, pest management service, air conditioning, indoor air quality, tropical urban landscape, concrete strength, computer aided design, energy management system, communication networks, luminaires, insulated cables, conformity assessment, information security and intelligent transport system.
+Link: /docs/default-source/enterprise-sg-circulars/pc---4-jul-202576b4faf2-5b9a-46a8-bebd-1193248757e3.pdf?sfvrsn=f232a750_1
+
+[2025-07-01] Expansion of Lodgement Scheme for Development and Building Proposals Within the Railway Protection Zone
+Agencies: LTA
+Categories: Requirements
+Effective: 2025-08-01
+This enhancement to the existing lodgement scheme aims to extend the benefit of the lodgement scheme to more developments as we relax the criteria to qualify for the scheme. The expanded scheme will take effect from 1 August 2025.
+Link: /docs/default-source/lta-circulars/qg16_rails_lodgement_expansion.pdf?sfvrsn=23de9ffb_1
+
+[2025-06-30] GBIC 2.0 2nd THEMATIC CHALLENGE CALL FOR HEALTHCARE, RETAIL, MIXEDDEVELOPMENT AND HOTEL BUILDINGS
+Agencies: BCA
+Categories: Grant Calls / Call for Submissions
+This circular: i.	informs the built environment industry on the launch of the Green Buildings Innovation Cluster 2.0 2nd Thematic Challenge Call on Healthcare, Retail, Mixed Development and Hotels ii.	request for participation and proposals for the 2nd Thematic Challenge Call
+Link: /docs/default-source/bca-circulars/gbic-2nd-thematic-challenge-call_27-june-20250496e50f300a4a1faaa76c7a7e27a247.pdf?sfvrsn=54b2d085_1
+
+[2025-06-18] Revised implementation date for Building Control regulations.
+Agencies: BCA
+Categories: Requirements
+This circular is to inform the industry about the revised implementation date for regulations for fixed installations (i.e. lifts, escalators and mechanised car parking systems) and exterior features.
+Link: /docs/default-source/bca-circulars/circular---revised-implementation-date-for-regulations-for-fixed-installations-and-exterior-features.pdf?sfvrsn=89a809b0_1
+
+[2025-06-13] REVISED BCA GREEN MARK CRITERIA FOR USER-CENTRIC SCHEMES – NEW BCA GREEN MARK FOR INTERIORS (GMI) SCHEME
+Agencies: BCA
+Categories: Announcements
+Effective: 2025-11-01
+This circular: i.	Informs the industry on the new Green Mark for Interiors (GMI) scheme which will replace the current five Green Mark User-Centric schemes with effect from 1 Nov 2025 ii.	Informs the industry on the implementation timeline and transition period
+Link: /docs/default-source/bca-circulars/industry-circular-for-gmi.pdf?sfvrsn=b6d9442a_1
+
+[2025-06-09] ENTERPRISE SINGAPORE CALLS FOR PUBLIC COMMENTS ON SINGAPORE STANDARDS – 6 JUNE 2025
+Agencies: Enterprise SG
+Members of the public are invited to provide feedback on draft Singapore Standards for publication and work item proposals for development and review of Singapore Standards and Technical References.
+Link: /docs/default-source/enterprise-sg-circulars/pc---6-jun-2025.pdf?sfvrsn=e780e67a_1
